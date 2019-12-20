@@ -27,7 +27,7 @@ cocos2d-x在Windows环境下配置：
 
    然后就可以看到目标路径下的工程文件了。
 
-* 项目创建完成后，复制项目源码中的Classes和Resources文件夹，将新创建的项目中的Classes和Resources文件夹覆盖。
+* 项目创建完成后，将新创建的项目中的Classes和Resources目录下的文件删除，然后复制code文件夹中的Classes和Resources目录下的文件到新创建的项目中的Classes和Resources文件夹。
 * 运行Proj.win32目录中的后缀为sln的文件，在解决方案资源管理器中，将Classes和Resources目录下的文件分别添加到src和resource中，单击调试器运行。第一次编译需要的时间较长（大概需要几分钟），请耐心等待。
 
 ### 项目展示
