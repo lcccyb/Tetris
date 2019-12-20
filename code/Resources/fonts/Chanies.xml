@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dict>
+  <key>play</key>
+  <string>开始游戏</string>
+  <key>gameover</key>
+  <string>再来一次</string>
+  <key>exitgame</key>
+  <string>退出游戏</string>
+  <key>score</key>
+  <string>当前分</string>
+  <key>tallscore</key>
+  <string>最高分</string>
+  <key>suspend</key>
+  <string>暂停</string>
+  <key>goOn</key>
+  <string>继续游戏</string>
+  <key>restart</key>
+  <string>重新开始</string>
+</dict>
