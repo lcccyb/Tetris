@@ -36,21 +36,21 @@ cocos2d-x在Windows环境下配置：
 
 开始界面：
 
-![](assets\1.png)
+![](assets/1.png)
 
 游戏运行界面：
 
-![](assets\2.png)
+![](assets/2.png)
 
 游戏结束界面：
 
-![](assets\3.png)
+![](assets/3.png)
 
 ### 项目制作
 
 基本制作框架如下：
 
-![](assets\4.png)
+![](assets/4.png)
 
 首先制作开始界面主场景（开始界面）。这个主要时间花在界面布局上。这个游戏主菜单的界面很简单， 就一张背景，外加个游戏标题和开始游戏的按钮。因此这里主要就是添加背景，游戏标题以及按钮的制作，功能在StartScene.h和StartScene.cpp里面实现。
 
